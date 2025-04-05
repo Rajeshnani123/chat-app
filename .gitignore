@@ -19,7 +19,8 @@ expo-env.d.ts
 
 # Metro
 .metro-health-check*
-
+package-lock.json
+*.lock
 # debug
 npm-debug.*
 yarn-debug.*
